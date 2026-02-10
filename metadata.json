@@ -1,0 +1,7 @@
+{
+  "name": "PixelPerfect Editor",
+  "description": "A high-end chronological image editor featuring recursive filters, 8-point transforms, and Gemini-powered visual insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
